@@ -21,8 +21,8 @@ Before running this script, ensure you have the following installed:
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/yourusername/old-games-downloader.git
-   cd old-games-downloader
+   git clone https://github.com/yourusername/website-downloader.git
+   cd website-downloader
    ```
    
 2. **Install Requirements:**
@@ -37,7 +37,7 @@ Before running this script, ensure you have the following installed:
 # Usage
 Run the script using:
 ```bash
-python old-games.py
+python downloader.py
 ```
 The script will start downloading files, skipping any that have already been downloaded as recorded in the database.
 
